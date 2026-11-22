@@ -1,0 +1,150 @@
+# GOPC - FREE-TO-USE SOFTWARE LICENSE
+
+Copyright (c) 2026 pizzaadoough
+Plain-language edition: 2026-11-15
+
+## 1. ABOUT GOPC
+
+GOPC makes PHP code harder to read. The Encoder processes PHP files,
+and the Loader runs the files produced by the Encoder.
+
+In this license, "I" and "me" mean the GOPC owner or authorized
+provider. "You" means the person or organization using GOPC.
+
+This license covers the GOPC-owned software supplied with it. It does
+not change rights already granted for earlier copies or rights in
+third-party components.
+
+## 2. FREE USE AND SHARING
+
+You may use the Encoder and Loader for free, including for business.
+You must get GOPC from me or a source I approve. You may install it
+and make reasonable copies for use or backup within your organization.
+
+GOPC is distributed in binary form only. This license does not grant
+access to its proprietary source code.
+
+Before the Encoder can process files, you must accept this license,
+register, and receive my approval. The Loader requires no separate
+registration or approval. Neither tool requires payment.
+
+You may not sell, give away, upload, bundle, or otherwise distribute
+the GOPC-owned Encoder, Loader, or installation files outside your
+organization. Anyone outside your organization who needs the Loader
+must get it from an approved GOPC source.
+
+Do not remove ownership notices or claim ownership of GOPC software,
+its name, or branding. You may use the GOPC name to identify the
+software accurately.
+
+These restrictions apply only to GOPC-owned software. They do not
+limit rights granted by law or third-party software licenses.
+
+## 3. ACCEPTANCE AND ENCODER REGISTRATION
+
+Before using the Encoder for the first time, you must read this entire
+license and enter AGREE to accept it. Any other answer, or no answer,
+means you do not accept and cannot continue. If you accept for an
+organization, you confirm that you have authority to do so.
+
+You must provide an email address and send your registration request
+to me yourself. The Encoder does not send it automatically. I verify
+that you control the email address before granting approval. Until I
+approve your registration, the Encoder cannot process files.
+
+Your registration request includes your email address, the time you
+accepted this license, and information identifying your computer
+and registration. Some details, including your email address and
+acceptance time, may be readable by anyone who receives the request.
+Use a suitable channel to send it.
+
+The Encoder stores a private registration record on your computer.
+Keep it private. Approval is tied to that computer. Moving GOPC to
+another computer, replacing your computer, or making major changes may
+require new approval. Registration does not allow you to redistribute
+GOPC software.
+
+## 4. YOUR PHP FILES
+
+Your PHP code and the files you create with the Encoder remain yours,
+subject to any existing rights of others. You may share encoded files
+if you have the right to share their contents, but you may not include
+copies of the Encoder or Loader.
+
+You are responsible for having the right to use and share your code.
+Keep backups of your original files and test encoded files in the
+environment where they will run. Differences in PHP versions or
+configurations may require you to encode files again.
+
+## 5. PROTECTION AND RELIABILITY
+
+Encoding makes PHP code harder to inspect but does not guarantee
+secrecy. Others may still view, copy, change, or recover your code.
+
+Test encoded output before using it in production. Keep backups and
+follow your usual security practices.
+
+## 6. OPTIONAL SUPPORT AND PAID FEATURES
+
+Free use does not guarantee support, fixes, updates, new features, or
+ongoing compatibility. I may release updates or stop maintaining older
+versions.
+
+If you want paid benefits, extra support, access to certain updates,
+or custom features, you must contact me directly. I may decline any
+request, and no service or feature is guaranteed.
+
+Before any paid arrangement begins, we must agree on what I will
+provide, the price, what is included or excluded, and how long the
+arrangement lasts. Unless we agree otherwise, paid arrangements cover
+only the Encoder, not the Loader.
+
+Using or registering GOPC does not give you support rights or start a
+paid subscription. A separate paid arrangement does not remove your
+existing rights to use free copies you lawfully received.
+
+## 7. WARRANTIES AND LIABILITY
+
+To the extent allowed by law, free GOPC is provided "as is" and "when
+available." I do not promise that it will be error-free, meet your
+needs, keep code secret, protect data, work in every environment, or
+receive fixes or updates.
+
+To the extent allowed by law, I am not responsible for losses caused
+by using GOPC or being unable to use it. This includes lost files or
+income, business interruption, security problems, damaged output, and
+replacement costs, whether the losses are direct or indirect or were
+foreseeable.
+
+These limits do not remove rights or protections required by law.
+They do not exclude responsibility for fraud, deliberate wrongdoing,
+serious negligence, death or injury caused by negligence, or anything
+else that cannot legally be excluded.
+
+They also do not override promises we separately agree to for paid
+services.
+
+## 8. THIRD-PARTY CLAIMS
+
+To the extent allowed by law, you are responsible for claims, legal
+costs, or damages arising from your unlawful materials, breach of this
+license, or infringement of third-party rights.
+
+You agree to cover third-party claims against me caused by your
+actions or your use of GOPC, to the extent allowed by law.
+
+## 9. OTHER TERMS
+
+If any part of this license cannot be enforced, the remaining parts
+still apply where possible.
+
+Changes apply only to later releases or to changes you separately
+agree to. They do not remove rights already granted for earlier
+copies.
+
+This license does not choose any country's law, court, or dispute
+process. Mandatory legal rules still apply.
+
+END OF FREE-TO-USE SOFTWARE LICENSE
+
+---
